@@ -54,5 +54,7 @@
     "handlebars",
     "templates",
     "precompile"
-  ]
+  ],
+  
+  "private": true
 }
